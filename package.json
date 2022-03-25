@@ -1,0 +1,11 @@
+{
+  "name": "express-typescript",
+  "version": "1.0.0",
+  "description": "Project API using Express with Typescript",
+  "main": "index.js",
+  "author": "Taufan Fadhilah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
